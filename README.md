@@ -3,6 +3,9 @@ Tutorial of the mini-course on
 *Point processes for time-frequency analysis*  
 B. Pascal & R.Bardenet
 
+## Stochastic Geometry days,  
+November 15th-19th, 2021, Dunkerque
+
 Point processes in the plane or the space have been major statistical models for spatial data in signal processing, from seismology to telecommunications. They come with an arsenal of exploration and inference
 tools, known as spatial statistics. Starting in 2015, point processes have also appeared in a more indirect
 way in signal processing, not as a statistical model for observed data, but as a natural way to describe
@@ -22,5 +25,4 @@ their links to the rich research around zeros of Gaussian analytic functions, an
 can yield signal detection and denoising algorithms that rely on identifying perturbations in the (point)
 pattern of silence.
 
-## Stochastic Geometry days,  
-November 15th-19th, 2021, Dunkerque
+
